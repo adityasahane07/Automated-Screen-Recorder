@@ -4,7 +4,14 @@ This Python script captures your screen and saves it as a video file using PyAut
 
 Features:
 
-Cross-platform screen recording (Windows, macOS, Linux). Adjustable recording parameters (resolution, codec, frame rate). Real-time display of the recording screen (optional). User-friendly termination with the 'q' key. Adjustable Resolution: Specify the resolution of the screen recording. Video Codec: Choose the video codec for the output file. Timestamped File Names: Each recording is saved with a timestamped filename for easy identification. Frame Rate Control: Customize the frames per second (fps) for the recorded video.
+Cross-platform screen recording (Windows, macOS, Linux). 
+Adjustable recording parameters (resolution, codec, frame rate). 
+Real-time display of the recording screen. 
+User-friendly termination with the 'q' key. 
+Adjustable Resolution: Specify the resolution of the screen recording.
+Video Codec: Choose the video codec for the output file. 
+Timestamped File Names: Each recording is saved with a timestamped filename for easy identification. 
+Frame Rate Control: Customize the frames per second (fps) for the recorded video.
 
 Usage:
 
