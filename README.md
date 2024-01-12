@@ -1,6 +1,5 @@
 # Automated-Screen-Recorder
 
-ScreenRecorder
 This Python script captures your screen and saves it as a video file using PyAutoGUI and OpenCV. The script continuously takes screenshots, converts them to a video stream, and writes the output to a file. The user can control the recording by pressing 'q' to stop. This is a simple tool for creating screen recordings with customizable resolution, codec, and frame rate.
 
 Features:
